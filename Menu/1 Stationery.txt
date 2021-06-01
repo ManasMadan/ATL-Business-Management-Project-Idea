@@ -1,0 +1,7 @@
+#Stationery
+Pencils(10) 40/-
+Erasor(10) 30/-
+Sharpner(10) 20/-
+A4 Sheets(500) 300/-
+
+

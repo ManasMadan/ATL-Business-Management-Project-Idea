@@ -1,0 +1,4 @@
+Bill Generator Credits : https://code-projects.org/hotel-billing-system-in-python-with-source-code/
+
+To Use Order All Less Secure Apps In Gmail
+Open The Python File And Change Email And Password Variable to your email and password 
